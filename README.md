@@ -12,13 +12,7 @@ A complete implementation of the Hindley-Milner type inference algorithm in Glea
 
 ## Installation
 
-Add this to your `gleam.toml`:
-
-```toml
-[dependencies]
-hm = { git = "git@github.com:Willyboar/HindleyMilner.git", ref = "main" }
-```
-
+Not in Hex. You need to clone it if you want to use it or add it as a github dep.
 ## Quick Start
 
 ```gleam
