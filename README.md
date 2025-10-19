@@ -13,8 +13,15 @@ A complete implementation of the Hindley-Milner type inference algorithm in Glea
 ## Installation
 
 Not in Hex. You need to clone it if you want to use it or add it as a github dep.
-`hm = { git = "https://github.com/Willyboar/HindleyMilner.git", ref = "main" }`
+```sh
+hm = { git = "https://github.com/Willyboar/HindleyMilner.git", ref = "main" }
+```
 
+## Examples
+
+```sh
+gleam run -m play
+```
 
 ## Quick Start
 
