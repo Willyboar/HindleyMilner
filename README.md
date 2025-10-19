@@ -16,7 +16,7 @@ Add this to your `gleam.toml`:
 
 ```toml
 [dependencies]
-hm = "~> 1.0"
+hm = { git = "git@github.com:Willyboar/HindleyMilner.git", ref = "main" }
 ```
 
 ## Quick Start
